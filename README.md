@@ -1,2 +1,3 @@
-# e118-ir-robot
- robot python and selenium copy numbers in file txt
+# e118.ir
+
+robots copy number and paste txt file
